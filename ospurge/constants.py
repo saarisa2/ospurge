@@ -45,8 +45,8 @@ RESOURCES_CLASSES = [
     'NeutronNetworks',
     'NeutronSecgroups',
     'GlanceImages',
-    'SwiftObjects',
-    'SwiftContainers',
+   # 'SwiftObjects',
+   # "'SwiftContainers',
     'CinderVolumes',
     'CeilometerAlarms',
     'HeatStacks'
